@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+  font-size: 48px;
+  margin:20px auto;
+  
+
+}
+
+.body {
+  display: flex;
+}
+
+#container {
+  display: grid;
+  box-shadow:rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  height: 500px;
+  width: 500px;
+  margin: auto;
+}
+
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cell {
+
+}
